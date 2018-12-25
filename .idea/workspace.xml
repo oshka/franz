@@ -28,21 +28,20 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="513" column="0" selection-start-line="513" selection-start-column="0" selection-end-line="513" selection-end-column="0" />
+            <state relative-caret-position="253">
+              <caret line="160" column="28" selection-start-line="160" selection-start-column="28" selection-end-line="160" selection-end-column="28" />
               <folding>
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#div#1;n#div#0;n#article#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#h2#0;n#div#0;n#div#1;n#div#0;n#article#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#1;n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -67,11 +66,6 @@
                 <element signature="n#div#1;n#div#0;n#article#0;n#div#2;n#div#1;n#div#1;n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#div#1;n#div#0;n#article#0;n#div#2;n#div#1;n#div#1;n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#p#0;n#div#0;n#div#1;n#div#0;n#article#0;n#div#2;n#div#1;n#div#1;n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#article#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#0;n#article#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#1;n#div#0;n#article#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#header#0;n#div#1;n#div#0;n#article#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#div#1;n#div#0;n#article#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -92,16 +86,23 @@
                 <element signature="n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#script#24;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#33865#39535#0" expanded="true" />
-                <element signature="e#34152#39529#0" expanded="true" />
-                <marker date="1545772109287" expanded="true" signature="7411:9146" ph="{&quot;type&quot;: &quot;audio&quot;...}" />
-                <marker date="1545772109287" expanded="true" signature="7503:9145" ph="[...]" />
-                <marker date="1545772109287" expanded="true" signature="8760:9144" ph="{&quot;src&quot;: &quot;\/audio\/03ol-ga-asaulyak-i-franc-pirnach-zerkal-noe-steklo.mp3&quot;...}" />
-                <marker date="1545772109287" expanded="false" signature="19213:19900" ph="..." />
-                <marker date="1545772109287" expanded="false" signature="19243:19892" ph="..." />
-                <marker date="1545772109287" expanded="true" signature="23641:25316" ph="{&quot;type&quot;: &quot;audio&quot;...}" />
-                <marker date="1545772109287" expanded="true" signature="23733:25315" ph="[...]" />
-                <marker date="1545772109287" expanded="true" signature="24942:25314" ph="{&quot;src&quot;: &quot;\/audio\/03ol-ga-asaulyak-i-franc-pirnach-zerkal-noe-steklo.mp3&quot;...}" />
+                <element signature="e#33435#39105#0" expanded="true" />
+                <element signature="e#33722#39099#0" expanded="true" />
+                <element signature="n#script#25;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#39145#40395#0" expanded="true" />
+                <element signature="e#39542#40300#0" expanded="true" />
+                <element signature="e#39855#40294#0" expanded="true" />
+                <element signature="e#40514#40950#0" expanded="true" />
+                <element signature="e#40692#40798#0" expanded="true" />
+                <element signature="e#40739#40789#0" expanded="true" />
+                <marker date="1545772267078" expanded="true" signature="7411:9146" ph="{&quot;type&quot;: &quot;audio&quot;...}" />
+                <marker date="1545772267078" expanded="true" signature="7503:9145" ph="[...]" />
+                <marker date="1545772267078" expanded="true" signature="8760:9144" ph="{&quot;src&quot;: &quot;\/audio\/03ol-ga-asaulyak-i-franc-pirnach-zerkal-noe-steklo.mp3&quot;...}" />
+                <marker date="1545772267078" expanded="false" signature="18783:19470" ph="..." />
+                <marker date="1545772267078" expanded="false" signature="18813:19462" ph="..." />
+                <marker date="1545772267078" expanded="true" signature="23211:24886" ph="{&quot;type&quot;: &quot;audio&quot;...}" />
+                <marker date="1545772267078" expanded="true" signature="23303:24885" ph="[...]" />
+                <marker date="1545772267078" expanded="true" signature="24512:24884" ph="{&quot;src&quot;: &quot;\/audio\/03ol-ga-asaulyak-i-franc-pirnach-zerkal-noe-steklo.mp3&quot;...}" />
               </folding>
             </state>
           </provider>
@@ -367,7 +368,7 @@
       <workItem from="1545514961345" duration="5533000" />
       <workItem from="1545661646328" duration="599000" />
       <workItem from="1545676292346" duration="4801000" />
-      <workItem from="1545761382937" duration="6811000" />
+      <workItem from="1545761382937" duration="6976000" />
     </task>
     <task id="LOCAL-00001" summary="[MOD] remove unnecessary sections, add audio">
       <created>1545520160996</created>
@@ -411,11 +412,18 @@
       <option name="project" value="LOCAL" />
       <updated>1545769448596</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="[MOD] remove lazyload">
+      <created>1545772124160</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1545772124160</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27062000" />
+    <option name="totallyTimeSpent" value="27227000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -453,7 +461,8 @@
     <MESSAGE value="[MOD] remove text from first screen" />
     <MESSAGE value="[MOD] first screen image as image only" />
     <MESSAGE value="[MOD] new image" />
-    <option name="LAST_COMMIT_MESSAGE" value="[MOD] new image" />
+    <MESSAGE value="[MOD] remove lazyload" />
+    <option name="LAST_COMMIT_MESSAGE" value="[MOD] remove lazyload" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -465,18 +474,17 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#1;n#div#0;n#article#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#h2#0;n#div#0;n#div#1;n#div#0;n#article#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#1;n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -501,11 +509,6 @@
             <element signature="n#div#1;n#div#0;n#article#0;n#div#2;n#div#1;n#div#1;n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#1;n#div#0;n#article#0;n#div#2;n#div#1;n#div#1;n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#p#0;n#div#0;n#div#1;n#div#0;n#article#0;n#div#2;n#div#1;n#div#1;n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#article#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#article#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#1;n#div#0;n#article#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#header#0;n#div#1;n#div#0;n#article#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#1;n#div#0;n#article#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -526,16 +529,23 @@
             <element signature="n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#script#24;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#33865#39535#0" expanded="true" />
-            <element signature="e#34152#39529#0" expanded="true" />
-            <marker date="1545772109287" expanded="true" signature="7411:9146" ph="{&quot;type&quot;: &quot;audio&quot;...}" />
-            <marker date="1545772109287" expanded="true" signature="7503:9145" ph="[...]" />
-            <marker date="1545772109287" expanded="true" signature="8760:9144" ph="{&quot;src&quot;: &quot;\/audio\/03ol-ga-asaulyak-i-franc-pirnach-zerkal-noe-steklo.mp3&quot;...}" />
-            <marker date="1545772109287" expanded="false" signature="19213:19900" ph="..." />
-            <marker date="1545772109287" expanded="false" signature="19243:19892" ph="..." />
-            <marker date="1545772109287" expanded="true" signature="23641:25316" ph="{&quot;type&quot;: &quot;audio&quot;...}" />
-            <marker date="1545772109287" expanded="true" signature="23733:25315" ph="[...]" />
-            <marker date="1545772109287" expanded="true" signature="24942:25314" ph="{&quot;src&quot;: &quot;\/audio\/03ol-ga-asaulyak-i-franc-pirnach-zerkal-noe-steklo.mp3&quot;...}" />
+            <element signature="e#33435#39105#0" expanded="true" />
+            <element signature="e#33722#39099#0" expanded="true" />
+            <element signature="n#script#25;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#39145#40395#0" expanded="true" />
+            <element signature="e#39542#40300#0" expanded="true" />
+            <element signature="e#39855#40294#0" expanded="true" />
+            <element signature="e#40514#40950#0" expanded="true" />
+            <element signature="e#40692#40798#0" expanded="true" />
+            <element signature="e#40739#40789#0" expanded="true" />
+            <marker date="1545772267078" expanded="true" signature="7411:9146" ph="{&quot;type&quot;: &quot;audio&quot;...}" />
+            <marker date="1545772267078" expanded="true" signature="7503:9145" ph="[...]" />
+            <marker date="1545772267078" expanded="true" signature="8760:9144" ph="{&quot;src&quot;: &quot;\/audio\/03ol-ga-asaulyak-i-franc-pirnach-zerkal-noe-steklo.mp3&quot;...}" />
+            <marker date="1545772267078" expanded="false" signature="18783:19470" ph="..." />
+            <marker date="1545772267078" expanded="false" signature="18813:19462" ph="..." />
+            <marker date="1545772267078" expanded="true" signature="23211:24886" ph="{&quot;type&quot;: &quot;audio&quot;...}" />
+            <marker date="1545772267078" expanded="true" signature="23303:24885" ph="[...]" />
+            <marker date="1545772267078" expanded="true" signature="24512:24884" ph="{&quot;src&quot;: &quot;\/audio\/03ol-ga-asaulyak-i-franc-pirnach-zerkal-noe-steklo.mp3&quot;...}" />
           </folding>
         </state>
       </provider>
@@ -648,21 +658,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="513" column="0" selection-start-line="513" selection-start-column="0" selection-end-line="513" selection-end-column="0" />
+        <state relative-caret-position="253">
+          <caret line="160" column="28" selection-start-line="160" selection-start-column="28" selection-end-line="160" selection-end-column="28" />
           <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#1;n#div#0;n#article#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#h2#0;n#div#0;n#div#1;n#div#0;n#article#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#article#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#1;n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -687,11 +696,6 @@
             <element signature="n#div#1;n#div#0;n#article#0;n#div#2;n#div#1;n#div#1;n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#1;n#div#0;n#article#0;n#div#2;n#div#1;n#div#1;n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#p#0;n#div#0;n#div#1;n#div#0;n#article#0;n#div#2;n#div#1;n#div#1;n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#article#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#article#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#1;n#div#0;n#article#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#header#0;n#div#1;n#div#0;n#article#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#1;n#div#0;n#article#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -712,16 +716,23 @@
             <element signature="n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#script#24;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#33865#39535#0" expanded="true" />
-            <element signature="e#34152#39529#0" expanded="true" />
-            <marker date="1545772109287" expanded="true" signature="7411:9146" ph="{&quot;type&quot;: &quot;audio&quot;...}" />
-            <marker date="1545772109287" expanded="true" signature="7503:9145" ph="[...]" />
-            <marker date="1545772109287" expanded="true" signature="8760:9144" ph="{&quot;src&quot;: &quot;\/audio\/03ol-ga-asaulyak-i-franc-pirnach-zerkal-noe-steklo.mp3&quot;...}" />
-            <marker date="1545772109287" expanded="false" signature="19213:19900" ph="..." />
-            <marker date="1545772109287" expanded="false" signature="19243:19892" ph="..." />
-            <marker date="1545772109287" expanded="true" signature="23641:25316" ph="{&quot;type&quot;: &quot;audio&quot;...}" />
-            <marker date="1545772109287" expanded="true" signature="23733:25315" ph="[...]" />
-            <marker date="1545772109287" expanded="true" signature="24942:25314" ph="{&quot;src&quot;: &quot;\/audio\/03ol-ga-asaulyak-i-franc-pirnach-zerkal-noe-steklo.mp3&quot;...}" />
+            <element signature="e#33435#39105#0" expanded="true" />
+            <element signature="e#33722#39099#0" expanded="true" />
+            <element signature="n#script#25;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#39145#40395#0" expanded="true" />
+            <element signature="e#39542#40300#0" expanded="true" />
+            <element signature="e#39855#40294#0" expanded="true" />
+            <element signature="e#40514#40950#0" expanded="true" />
+            <element signature="e#40692#40798#0" expanded="true" />
+            <element signature="e#40739#40789#0" expanded="true" />
+            <marker date="1545772267078" expanded="true" signature="7411:9146" ph="{&quot;type&quot;: &quot;audio&quot;...}" />
+            <marker date="1545772267078" expanded="true" signature="7503:9145" ph="[...]" />
+            <marker date="1545772267078" expanded="true" signature="8760:9144" ph="{&quot;src&quot;: &quot;\/audio\/03ol-ga-asaulyak-i-franc-pirnach-zerkal-noe-steklo.mp3&quot;...}" />
+            <marker date="1545772267078" expanded="false" signature="18783:19470" ph="..." />
+            <marker date="1545772267078" expanded="false" signature="18813:19462" ph="..." />
+            <marker date="1545772267078" expanded="true" signature="23211:24886" ph="{&quot;type&quot;: &quot;audio&quot;...}" />
+            <marker date="1545772267078" expanded="true" signature="23303:24885" ph="[...]" />
+            <marker date="1545772267078" expanded="true" signature="24512:24884" ph="{&quot;src&quot;: &quot;\/audio\/03ol-ga-asaulyak-i-franc-pirnach-zerkal-noe-steklo.mp3&quot;...}" />
           </folding>
         </state>
       </provider>

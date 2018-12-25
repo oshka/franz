@@ -156,11 +156,9 @@
                         <div class="hentry-inner">
                             <div class="entry-container">
                                 <div class="entry-content lightbox-enabled">
-                                    <a class="mixed" data-flashy-type="video" href="https://www.youtube.com/watch?v=JbvbnsKkNuk">
                                         <iframe width="920" height="518" src="about:blank" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-rocket-lazyload="fitvidscompatible" data-lazy-src="https://www.youtube.com/embed/JbvbnsKkNuk?feature=oembed"></iframe>
-                                        <noscript>
-                                            <iframe width="920" height="518" src="https://www.youtube.com/embed/JbvbnsKkNuk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></noscript></a>
-                                </div> </div>
+                                </div>
+                            </div>
                         </div>
                     </article>
                 </div>
@@ -511,7 +509,51 @@
 </script>
 
 
+<script>(function(w, d){
+    var b = d.getElementsByTagName("body")[0];
+    var s = d.createElement("script"); s.async = true;
+    s.src = !("IntersectionObserver" in w) ? "https://catchthemes.com/demo/audioman-light/wp-content/plugins/wp-rocket/inc/front/js/lazyload-8.15.2.min.js" : "https://catchthemes.com/demo/audioman-light/wp-content/plugins/wp-rocket/inc/front/js/lazyload-10.17.min.js";
+    w.lazyLoadOptions = {
+        elements_selector: "img,iframe",
+        data_src: "lazy-src",
+        data_srcset: "lazy-srcset",
+        data_sizes: "lazy-sizes",
+        skip_invisible: false,
+        class_loading: "lazyloading",
+        class_loaded: "lazyloaded",
+        threshold: 300,
+        callback_load: function(element) {
+            if ( element.tagName === "IFRAME" && element.dataset.rocketLazyload == "fitvidscompatible" ) {
+                if (element.classList.contains("lazyloaded") ) {
+                    if (typeof window.jQuery != "undefined") {
+                        if (jQuery.fn.fitVids) {
+                            jQuery(element).parent().fitVids();
+                        }
+                    }
+                }
+            }
+        }
+    }; // Your options here. See "recipes" for more information about async.
+    b.appendChild(s);
+}(window, document));
 
+// Listen to the Initialized event
+window.addEventListener('LazyLoad::Initialized', function (e) {
+    // Get the instance and puts it in the lazyLoadInstance variable
+    var lazyLoadInstance = e.detail.instance;
+
+    var observer = new MutationObserver(function(mutations) {
+        mutations.forEach(function(mutation) {
+            lazyLoadInstance.update();
+        } );
+    } );
+
+    var b      = document.getElementsByTagName("body")[0];
+    var config = { childList: true, subtree: true };
+
+    observer.observe(b, config);
+}, false);
+</script>
 <script>
     function scrollToAnchor(aid){
         var aTag = $("div[name='"+ aid +"']");
