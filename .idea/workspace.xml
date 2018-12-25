@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b88657cf-30d6-4e2a-a772-c43f206977a9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Web_2.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -28,8 +29,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+            <state relative-caret-position="340">
+              <caret line="251" column="0" selection-start-line="251" selection-start-column="0" selection-end-line="251" selection-end-column="0" />
               <folding>
                 <element signature="n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -37,7 +38,6 @@
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#div#1;n#div#0;n#article#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -85,16 +85,16 @@
                 <element signature="n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#script#26;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1545769050750" expanded="true" signature="7411:9146" ph="{&quot;type&quot;: &quot;audio&quot;...}" />
-                <marker date="1545769050750" expanded="true" signature="7503:9145" ph="[...]" />
-                <marker date="1545769050750" expanded="true" signature="8760:9144" ph="{&quot;src&quot;: &quot;\/audio\/03ol-ga-asaulyak-i-franc-pirnach-zerkal-noe-steklo.mp3&quot;...}" />
-                <marker date="1545769050750" expanded="false" signature="13184:18886" ph="..." />
-                <marker date="1545769050750" expanded="false" signature="13218:18871" ph="..." />
-                <marker date="1545769050750" expanded="false" signature="20437:21124" ph="..." />
-                <marker date="1545769050750" expanded="false" signature="20467:21116" ph="..." />
-                <marker date="1545769050750" expanded="true" signature="24774:26449" ph="{&quot;type&quot;: &quot;audio&quot;...}" />
-                <marker date="1545769050750" expanded="true" signature="24866:26448" ph="[...]" />
-                <marker date="1545769050750" expanded="true" signature="26075:26447" ph="{&quot;src&quot;: &quot;\/audio\/03ol-ga-asaulyak-i-franc-pirnach-zerkal-noe-steklo.mp3&quot;...}" />
+                <marker date="1545769422035" expanded="true" signature="7411:9146" ph="{&quot;type&quot;: &quot;audio&quot;...}" />
+                <marker date="1545769422035" expanded="true" signature="7503:9145" ph="[...]" />
+                <marker date="1545769422035" expanded="true" signature="8760:9144" ph="{&quot;src&quot;: &quot;\/audio\/03ol-ga-asaulyak-i-franc-pirnach-zerkal-noe-steklo.mp3&quot;...}" />
+                <marker date="1545769422035" expanded="false" signature="13184:18886" ph="..." />
+                <marker date="1545769422035" expanded="false" signature="13218:18871" ph="..." />
+                <marker date="1545769422035" expanded="false" signature="20437:21124" ph="..." />
+                <marker date="1545769422035" expanded="false" signature="20467:21116" ph="..." />
+                <marker date="1545769422035" expanded="true" signature="24774:26449" ph="{&quot;type&quot;: &quot;audio&quot;...}" />
+                <marker date="1545769422035" expanded="true" signature="24866:26448" ph="[...]" />
+                <marker date="1545769422035" expanded="true" signature="26075:26447" ph="{&quot;src&quot;: &quot;\/audio\/03ol-ga-asaulyak-i-franc-pirnach-zerkal-noe-steklo.mp3&quot;...}" />
               </folding>
             </state>
           </provider>
@@ -360,7 +360,7 @@
       <workItem from="1545514961345" duration="5533000" />
       <workItem from="1545661646328" duration="599000" />
       <workItem from="1545676292346" duration="4801000" />
-      <workItem from="1545761382937" duration="4377000" />
+      <workItem from="1545761382937" duration="4761000" />
     </task>
     <task id="LOCAL-00001" summary="[MOD] remove unnecessary sections, add audio">
       <created>1545520160996</created>
@@ -390,11 +390,18 @@
       <option name="project" value="LOCAL" />
       <updated>1545768484602</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="[MOD] first screen image as image only">
+      <created>1545769158932</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1545769158932</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24628000" />
+    <option name="totallyTimeSpent" value="25012000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -430,7 +437,8 @@
     <MESSAGE value="[MOD] correcions. adding citates" />
     <MESSAGE value="[MOD] new first screen image" />
     <MESSAGE value="[MOD] remove text from first screen" />
-    <option name="LAST_COMMIT_MESSAGE" value="[MOD] remove text from first screen" />
+    <MESSAGE value="[MOD] first screen image as image only" />
+    <option name="LAST_COMMIT_MESSAGE" value="[MOD] first screen image as image only" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -448,7 +456,6 @@
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#1;n#div#0;n#article#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -496,16 +503,16 @@
             <element signature="n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#script#26;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1545769050750" expanded="true" signature="7411:9146" ph="{&quot;type&quot;: &quot;audio&quot;...}" />
-            <marker date="1545769050750" expanded="true" signature="7503:9145" ph="[...]" />
-            <marker date="1545769050750" expanded="true" signature="8760:9144" ph="{&quot;src&quot;: &quot;\/audio\/03ol-ga-asaulyak-i-franc-pirnach-zerkal-noe-steklo.mp3&quot;...}" />
-            <marker date="1545769050750" expanded="false" signature="13184:18886" ph="..." />
-            <marker date="1545769050750" expanded="false" signature="13218:18871" ph="..." />
-            <marker date="1545769050750" expanded="false" signature="20437:21124" ph="..." />
-            <marker date="1545769050750" expanded="false" signature="20467:21116" ph="..." />
-            <marker date="1545769050750" expanded="true" signature="24774:26449" ph="{&quot;type&quot;: &quot;audio&quot;...}" />
-            <marker date="1545769050750" expanded="true" signature="24866:26448" ph="[...]" />
-            <marker date="1545769050750" expanded="true" signature="26075:26447" ph="{&quot;src&quot;: &quot;\/audio\/03ol-ga-asaulyak-i-franc-pirnach-zerkal-noe-steklo.mp3&quot;...}" />
+            <marker date="1545769422035" expanded="true" signature="7411:9146" ph="{&quot;type&quot;: &quot;audio&quot;...}" />
+            <marker date="1545769422035" expanded="true" signature="7503:9145" ph="[...]" />
+            <marker date="1545769422035" expanded="true" signature="8760:9144" ph="{&quot;src&quot;: &quot;\/audio\/03ol-ga-asaulyak-i-franc-pirnach-zerkal-noe-steklo.mp3&quot;...}" />
+            <marker date="1545769422035" expanded="false" signature="13184:18886" ph="..." />
+            <marker date="1545769422035" expanded="false" signature="13218:18871" ph="..." />
+            <marker date="1545769422035" expanded="false" signature="20437:21124" ph="..." />
+            <marker date="1545769422035" expanded="false" signature="20467:21116" ph="..." />
+            <marker date="1545769422035" expanded="true" signature="24774:26449" ph="{&quot;type&quot;: &quot;audio&quot;...}" />
+            <marker date="1545769422035" expanded="true" signature="24866:26448" ph="[...]" />
+            <marker date="1545769422035" expanded="true" signature="26075:26447" ph="{&quot;src&quot;: &quot;\/audio\/03ol-ga-asaulyak-i-franc-pirnach-zerkal-noe-steklo.mp3&quot;...}" />
           </folding>
         </state>
       </provider>
@@ -618,8 +625,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+        <state relative-caret-position="340">
+          <caret line="251" column="0" selection-start-line="251" selection-start-column="0" selection-end-line="251" selection-end-column="0" />
           <folding>
             <element signature="n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -627,7 +634,6 @@
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#1;n#div#0;n#article#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -675,16 +681,16 @@
             <element signature="n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#script#26;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1545769050750" expanded="true" signature="7411:9146" ph="{&quot;type&quot;: &quot;audio&quot;...}" />
-            <marker date="1545769050750" expanded="true" signature="7503:9145" ph="[...]" />
-            <marker date="1545769050750" expanded="true" signature="8760:9144" ph="{&quot;src&quot;: &quot;\/audio\/03ol-ga-asaulyak-i-franc-pirnach-zerkal-noe-steklo.mp3&quot;...}" />
-            <marker date="1545769050750" expanded="false" signature="13184:18886" ph="..." />
-            <marker date="1545769050750" expanded="false" signature="13218:18871" ph="..." />
-            <marker date="1545769050750" expanded="false" signature="20437:21124" ph="..." />
-            <marker date="1545769050750" expanded="false" signature="20467:21116" ph="..." />
-            <marker date="1545769050750" expanded="true" signature="24774:26449" ph="{&quot;type&quot;: &quot;audio&quot;...}" />
-            <marker date="1545769050750" expanded="true" signature="24866:26448" ph="[...]" />
-            <marker date="1545769050750" expanded="true" signature="26075:26447" ph="{&quot;src&quot;: &quot;\/audio\/03ol-ga-asaulyak-i-franc-pirnach-zerkal-noe-steklo.mp3&quot;...}" />
+            <marker date="1545769422035" expanded="true" signature="7411:9146" ph="{&quot;type&quot;: &quot;audio&quot;...}" />
+            <marker date="1545769422035" expanded="true" signature="7503:9145" ph="[...]" />
+            <marker date="1545769422035" expanded="true" signature="8760:9144" ph="{&quot;src&quot;: &quot;\/audio\/03ol-ga-asaulyak-i-franc-pirnach-zerkal-noe-steklo.mp3&quot;...}" />
+            <marker date="1545769422035" expanded="false" signature="13184:18886" ph="..." />
+            <marker date="1545769422035" expanded="false" signature="13218:18871" ph="..." />
+            <marker date="1545769422035" expanded="false" signature="20437:21124" ph="..." />
+            <marker date="1545769422035" expanded="false" signature="20467:21116" ph="..." />
+            <marker date="1545769422035" expanded="true" signature="24774:26449" ph="{&quot;type&quot;: &quot;audio&quot;...}" />
+            <marker date="1545769422035" expanded="true" signature="24866:26448" ph="[...]" />
+            <marker date="1545769422035" expanded="true" signature="26075:26447" ph="{&quot;src&quot;: &quot;\/audio\/03ol-ga-asaulyak-i-franc-pirnach-zerkal-noe-steklo.mp3&quot;...}" />
           </folding>
         </state>
       </provider>
