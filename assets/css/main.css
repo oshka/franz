@@ -10207,3 +10207,8 @@ body.custom-background { background-color: #f0f0f0; }
     background-repeat: no-repeat;
     background-attachment: scroll;
 }
+@media screen and (max-width: 75em){
+    .navigation-classic .main-navigation li a {
+        color: #373737;
+    }
+}
